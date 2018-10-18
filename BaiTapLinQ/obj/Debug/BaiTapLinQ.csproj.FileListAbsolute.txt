@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\bin\Debug\BaiTapLinQ.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\bin\Debug\BaiTapLinQ.exe
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\bin\Debug\BaiTapLinQ.pdb
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.exe
+c:\users\admin\documents\visual studio 2015\Projects\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.pdb
+C:\Users\ADMIN\Desktop\BaiTapLinq-master (1)\BaiTapLinq-master\BaiTapLinQ\bin\Debug\BaiTapLinQ.exe.config
+C:\Users\ADMIN\Desktop\BaiTapLinq-master (1)\BaiTapLinq-master\BaiTapLinQ\obj\Debug\BaiTapLinQ.exe
+C:\Users\ADMIN\Desktop\BaiTapLinq-master (1)\BaiTapLinq-master\BaiTapLinQ\obj\Debug\BaiTapLinQ.pdb
